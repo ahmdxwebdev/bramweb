@@ -61,13 +61,17 @@ h6 {
     width: 40px;
     height: 40px;
     border-radius: 4px;
-    background: #5c9f24;
+    /* background: #5c9f24; */
+    background: #0275d8;
+    opacity: 0.5;
     color: #fff;
     transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-    background: #6fc02c;
+    /* background: #6fc02c; */
+    background: #0275d8;
+    opacity: 0.5;
     color: #fff;
 }
 
@@ -883,7 +887,8 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
     color: #fff;
-    background: #5c9f24;
+    /* background: #5c9f24; */
+    background: #0275d8;
 }
 
 .portfolio #portfolio-flters li:last-child {
